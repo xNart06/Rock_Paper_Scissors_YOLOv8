@@ -19,8 +19,7 @@ Welcome to this repository! This project combines two interesting implementation
   - [Rock, Paper, Scissors Video Test](#rock-paper-scissors-video-test)
   - [YOLOv8 Training](#yolov8-training)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+- [DATASET](#DATASET)
 
 ---
 
@@ -114,14 +113,6 @@ Ensure you have the following installed:
   - Sample inference results:
     ![Inference Example](path/to/inference_example.png)
 
----
+## DATASET
 
-## Contributing
-
-Contributions are welcome! If you find a bug or have an idea for improvement, feel free to open an issue or submit a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+(https://universe.roboflow.com/roboflow-58fyf/rock-paper-scissors-sxsw
