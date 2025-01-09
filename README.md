@@ -115,4 +115,4 @@ Ensure you have the following installed:
 
 ## DATASET
 
-(https://universe.roboflow.com/roboflow-58fyf/rock-paper-scissors-sxsw
+(https://universe.roboflow.com/roboflow-58fyf/rock-paper-scissors-sxsw)
