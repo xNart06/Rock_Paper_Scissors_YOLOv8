@@ -48,7 +48,7 @@ Whether you're new to object detection or looking to fine-tune a model for speci
 ├── README.md                             # Project documentation
 ├── Model                                 # Project model
 ├── RealTime.py                           # RealTime code
-├── TEST                                  # TEST video photos
+├── Test                                  # Output.mp4 photo
 └── data/                                 # Placeholder for datasets
 ```
 
