@@ -46,7 +46,9 @@ Whether you're new to object detection or looking to fine-tune a model for speci
 ├── Rock_paper_scissors_videoTest.ipynb   # Notebook for video-based RPS detection
 ├── Yolo_v8_train.ipynb                   # Notebook for YOLOv8 training on custom datasets
 ├── README.md                             # Project documentation
-├── requirements.txt                      # Python dependencies
+├── Model                                 # Project model
+├── RealTime.py                           # RealTime code
+├── TEST                                  # TEST video photos
 └── data/                                 # Placeholder for datasets
 ```
 
