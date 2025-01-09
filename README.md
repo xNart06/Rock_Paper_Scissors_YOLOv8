@@ -15,7 +15,6 @@ Welcome to this repository! This project combines two interesting implementation
 - [Project Structure](#project-structure)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Usage](#usage)
   - [Rock, Paper, Scissors Video Test](#rock-paper-scissors-video-test)
   - [YOLOv8 Training](#yolov8-training)
