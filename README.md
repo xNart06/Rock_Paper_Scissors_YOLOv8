@@ -108,12 +108,12 @@ Ensure you have the following installed:
 - **Rock, Paper, Scissors Video Test**:
   - Outputs processed video frames with classified gestures.
   - Example result:
-    ![Example Output](path/to/example_output_rps.png)
+    ![Example Output](Test/4.png)
 
 - **YOLOv8 Training**:
   - Model performance metrics (e.g., mAP, precision, recall).
   - Sample inference results:
-    ![Inference Example](path/to/inference_example.png)
+    ![Inference Example](Model/Model.png)
 
 ## DATASET
 
