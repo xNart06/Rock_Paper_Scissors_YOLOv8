@@ -83,23 +83,6 @@ Ensure you have the following installed:
 
 ---
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. (Optional) Enable GPU acceleration for better performance:
-   - In Google Colab: Navigate to `Edit > Notebook Settings > Hardware Accelerator > GPU`.
-
----
 
 ## Usage
 
